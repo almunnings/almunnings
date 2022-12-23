@@ -1,5 +1,5 @@
 <div align="center">
 
-![WeLcOmE tO mY pRoFiLe](assets/welcome.gif)
+![WeLcOmE tO mY pRoFiLe](assets/working.gif)
 
 </div>
